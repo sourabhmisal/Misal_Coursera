@@ -7,3 +7,6 @@
 [submodule "Embedded_Systems/Intro_to_Embedded_Systems_Software_and_Dev/c1m2-misal"]
 	path = Embedded_Systems/Intro_to_Embedded_Systems_Software_and_Dev/c1m2-misal
 	url = https://sourabhmisal1@bitbucket.org/sourabhmisal1/c1m2-misal.git
+[submodule "Embedded_Systems/Intro_to_Embedded_Systems_Software_and_Dev/c1m1-misal"]
+	path = Embedded_Systems/Intro_to_Embedded_Systems_Software_and_Dev/c1m1-misal
+	url = https://sourabhmisal1@bitbucket.org/sourabhmisal1/c1m1-misal.git
